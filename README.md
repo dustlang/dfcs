@@ -37,7 +37,7 @@ language is evolving in.
 [When you need to follow this process]: #when-you-need-to-follow-this-process
 
 You need to follow this process if you intend to make "substantial" changes to
-Rust, Cargo, Crates.io, or the RFC process itself. What constitutes a
+Dust, Payload, Crates.io, or the RFC process itself. What constitutes a
 "substantial" change is evolving based on community norms and varies depending
 on what part of the ecosystem you are proposing to change, but may include the
 following.
@@ -55,8 +55,8 @@ Some changes do not require an RFC:
   - Additions that strictly improve objective, numerical quality criteria
     (warning removal, speedup, better platform coverage, more parallelism, trap
     more errors, etc.)
-  - Additions only likely to be _noticed by_ other developers-of-rust,
-    invisible to users-of-rust.
+  - Additions only likely to be _noticed by_ other developers-of-dust,
+    invisible to users-ofdust.
 
 If you submit a pull request to implement a new feature without going through
 the RFC process, it may be closed with a polite request to submit an RFC first.
